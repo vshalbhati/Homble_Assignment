@@ -1,0 +1,26 @@
+.product-details-container {
+    background-image: url('../../assets/footer-bg.jpg');
+    border-radius: 0;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .product-details-card {
+    background-color: #ffffffc8; 
+  }
+  
+  .product-details-card img {
+    max-height: 400px; 
+    object-fit: cover; 
+    justify-content: center;
+    justify-self: center;
+    align-self: center;
+  }
+  
+  .cursor-pointer {
+    cursor: pointer;
+  }
+  
+  .card-body {
+    transition: height 0.3s ease; 
+  }
